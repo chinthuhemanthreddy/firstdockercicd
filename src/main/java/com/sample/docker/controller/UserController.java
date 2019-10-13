@@ -9,6 +9,6 @@ public class UserController {
 	@GetMapping
 	public String sayHello() {
 		
-		return "Nayana Namaskaram!!";
+		return "Ee RDS problem entoo!!";
 	}
 }
